@@ -1,4 +1,4 @@
-//# cpp
+# cpp
 //Clock Display
 #include <iostream>
 
