@@ -2,7 +2,6 @@
 
 Summarize the project and what problem it was solving.
 
-    
 For this project, I was given a task: "Chada Tech has domestic and international clients. To meet international standard ISO 8601, Chada Tech wants their clients to be able to view a 12- and a 24-hour clock on their website rather than just the standard 12-hour clock.". I am to make a program that views both a 12 and 24 hour clock on a website for the client. This program also has a menu interface that allows users to choose the time increments. 
 
 What did you do particularly well?
